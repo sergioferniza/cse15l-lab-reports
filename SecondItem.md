@@ -5,16 +5,17 @@ Sergio Ferniza  Marquez
 
 *Dangerous link below*
 **Real Alien live footage click link!!!!**
+
 [Link](https://youtu.be/bCoFfCgxBeM)
 
-'Scary' 
-now wasn't it
+`Scary now wasn't it`
 
-'''
-#now then one must beware the next scary image
-print 'be warned its scary.'
-print 'im telling you'
-'''
+```
+now then one must beware the next scary image
+'be warned its scary.'
+'im telling you'
+
+```
 > LAST WARNING
 
 ![Image](https://files.wapa.pe/Wapa/2019/09/02/tiburon-disfraz-cuy-1567441028.png)
