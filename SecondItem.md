@@ -4,14 +4,16 @@ Sergio Ferniza  Marquez
 # different methods
 
 *Dangerous link below*
-*Real Alien live footage click link!!!!*
+**Real Alien live footage click link!!!!**
 [Link](https://youtu.be/bCoFfCgxBeM)
 
-'Scary now wasn't it'
+'Scary' 
+now wasn't it
 
 '''
-now then one must beware the next scary image
-be warned its scary.
+#now then one must beware the next scary image
+print 'be warned its scary.'
+print 'im telling you'
 '''
 > LAST WARNING
 
